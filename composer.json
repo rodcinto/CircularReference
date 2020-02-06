@@ -1,0 +1,19 @@
+{
+    "name": "rodrigocinto/circular-reference",
+    "description": "This is a little demonstration of how Circular Reference behave in PHP.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Rodrigo Cinto",
+            "email": "rodcinto@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "Example/Booking.php",
+            "Example/Guest.php",
+            "Example/Hotel.php"
+        ]
+    }
+}
