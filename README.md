@@ -1,2 +1,2 @@
 # CircularReference
-This is a little demonstration of how Circular Reference behave in PHP.
+This is a little demonstration of how Circular Reference behaves in PHP.
